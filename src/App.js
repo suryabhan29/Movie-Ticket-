@@ -9,6 +9,7 @@ import SignUp from './pages/SignUp';
 import MovieGrid from './pages/MovieGrid';
 import MovieDetail from './pages/MovieDetail';
 import MovieList from './pages/MovieList';
+import MovieTicketPlan from './pages/MovieTicketPlan';
 
 
 
@@ -22,6 +23,7 @@ function App() {
                   <Route path='/movie-grid' element={<MovieGrid />} ></Route>
                   <Route path='/movie-details' element={<MovieDetail />} ></Route>
                   <Route path='/movie-list' element={<MovieList />} ></Route>
+                  <Route path='/movie-ticket-plan' element={<MovieTicketPlan />} ></Route>
               </Route>
               <Route path='/sign-in' element={<SignIn/>} ></Route>
               <Route path='/sign-up' element={<SignUp/>} ></Route>

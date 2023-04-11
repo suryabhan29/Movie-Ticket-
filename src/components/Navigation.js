@@ -44,43 +44,7 @@ export default function Navigation() {
                             </li>
                         </ul>
                     </li>
-                    <li>
-                        <a href="/#0">events</a>
-                        <ul className="submenu">
-                            <li>
-                                <a href="/events">Events</a>
-                            </li>
-                            <li>
-                                <a href="/event-details">Event Details</a>
-                            </li>
-                            <li>
-                                <a href="/event-speaker">Event Speaker</a>
-                            </li>
-                            <li>
-                                <a href="/event-ticket">Event Ticket</a>
-                            </li>
-                            <li>
-                                <a href="/event-checkout">Event Checkout</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="/#0">sports</a>
-                        <ul className="submenu">
-                            <li>
-                                <a href="/sports">Sports</a>
-                            </li>
-                            <li>
-                                <a href="/sport-details">Sport Details</a>
-                            </li>
-                            <li>
-                                <a href="/sports-ticket">Sport Ticket</a>
-                            </li>
-                            <li>
-                                <a href="/sports-checkout">Sport Checkout</a>
-                            </li>
-                        </ul>
-                    </li>
+                    
                     <li>
                         <a href="/#0">pages</a>
                         <ul className="submenu">
